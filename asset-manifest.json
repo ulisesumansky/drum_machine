@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ulisesumansky/drum_machine/static/css/main.72f48c01.css",
+    "main.js": "/ulisesumansky/drum_machine/static/js/main.c30a01b2.js",
+    "static/js/787.e9bed731.chunk.js": "/ulisesumansky/drum_machine/static/js/787.e9bed731.chunk.js",
+    "static/media/logo.svg": "/ulisesumansky/drum_machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ulisesumansky/drum_machine/index.html",
+    "main.72f48c01.css.map": "/ulisesumansky/drum_machine/static/css/main.72f48c01.css.map",
+    "main.c30a01b2.js.map": "/ulisesumansky/drum_machine/static/js/main.c30a01b2.js.map",
+    "787.e9bed731.chunk.js.map": "/ulisesumansky/drum_machine/static/js/787.e9bed731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f48c01.css",
+    "static/js/main.c30a01b2.js"
+  ]
+}
